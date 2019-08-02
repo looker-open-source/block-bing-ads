@@ -5,7 +5,7 @@
       "description": "The connection that houses your Bing Ads data.",
       "value_constraint": "connection"
     },
-    "ADWORDS_SCHEMA": {
+    "BING_SCHEMA": {
       "label": "Bing Schema Name",
       "description": "The schema name of your Bing Ads data."
     },
