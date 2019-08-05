@@ -18,7 +18,7 @@ remote_dependency: app-marketing-common {
 }
 
 local_dependency: {
-  project: "block-bing-ads-config"
+  project: "@{CONFIG_PROJECT_NAME}"
 }
 
 constant: CONFIG_PROJECT_NAME {
