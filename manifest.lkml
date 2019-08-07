@@ -23,6 +23,7 @@ local_dependency: {
 
 constant: CONFIG_PROJECT_NAME {
   value: "block-bing-ads-config"
+  export: override_required
 }
 
 constant: CONNECTION_NAME {
