@@ -19,6 +19,9 @@ remote_dependency: app-marketing-common {
 
 local_dependency: {
   project: "@{CONFIG_PROJECT_NAME}"
+  override_constant: BING_SCHEMA {
+    value: "@{BING_SCHEMA}"
+  }
 }
 
 constant: CONFIG_PROJECT_NAME {

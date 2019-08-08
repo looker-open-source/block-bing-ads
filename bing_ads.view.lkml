@@ -3,15 +3,6 @@ include: "//app-marketing-bing-ads/*.view"
 include: "//app-marketing-common/*.view"
 include: "//@{CONFIG_PROJECT_NAME}/*.view"
 
-view: bing_ads_config {
-  extension: required
-
-  dimension: bing_ads_schema {
-    hidden: yes
-    sql:@{BING_SCHEMA};;
-  }
-}
-
 view: ad_metrics_base {
   extends: [ad_metrics_base_config]
 }
