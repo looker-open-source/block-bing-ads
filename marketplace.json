@@ -1,4 +1,11 @@
 {
+  "label": "Bing Ads",
+  "category_label": "Tools",
+  "branding": {
+    "image_uri": "https://marketplace-api.looker.com/block-icons/bing_icon.png",
+    "tagline": "Dig into campaigns and keywords, optimize spend and allocation, and maximize channel ROI for Bing Ads."
+  },
+
   "constants": {
     "CONNECTION_NAME": {
       "label": "Connection Name",
