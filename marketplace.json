@@ -27,7 +27,7 @@
   "auxiliary_projects": [
     {
       "git_uri": "git://github.com/looker/block-bing-ads-config.git",
-      "git_ref": "809fd923e43b3fc1585de4e8488aef45b9aa56bb",
+      "git_ref": "11ae6418d8781fee67cb2d6f906b0bb988798cd1",
       "label": "Bing Ads Config",
       "constant_name": "CONFIG_PROJECT_NAME"
     }
