@@ -3,7 +3,7 @@ project_name: "block-bing-ads"
 # LookML to map the ETL and data warehouse for Bing Ads
 remote_dependency: app-marketing-bing-ads {
   url: "git://github.com/looker/app-marketing-bing-ads"
-  ref: "5ae89c4e1167dd3b38d35f15e39863679157eb95"
+  ref: "e64a830911a872659e380e7bf8ed51df437b6c39"
 }
 
 remote_dependency: app-marketing-bing-ads-adapter {
