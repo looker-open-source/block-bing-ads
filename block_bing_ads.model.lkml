@@ -8,6 +8,7 @@ include: "*.dashboard"
 
 explore: bing_ad_impressions {
   extends: [bing_ad_impressions_config]
+  hidden: no
 }
 
 explore: bing_ad_impressions_campaign {
@@ -17,6 +18,7 @@ explore: bing_ad_impressions_campaign {
 
 explore: bing_ad_impressions_ad_group {
   extends: [bing_ad_impressions_ad_group_config]
+  hidden: no
 }
 
 explore: bing_ad_impressions_keyword {
