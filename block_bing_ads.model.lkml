@@ -8,12 +8,12 @@ include: "*.dashboard"
 
 explore: bing_ad_impressions {
   extends: [bing_ad_impressions_config]
-  hidden: yes
+  hidden: no
 }
 
 explore: bing_ad_impressions_campaign {
   extends: [bing_ad_impressions_campaign_config]
-  hidden: yes
+  hidden: no
 }
 
 explore: bing_ad_impressions_ad_group {
@@ -33,5 +33,5 @@ explore: bing_ad_impressions_ad{
 
 explore: bing_period_comparison {
   extends: [bing_period_comparison_config]
-  hidden: yes
+  hidden: no
 }
