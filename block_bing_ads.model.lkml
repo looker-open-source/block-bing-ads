@@ -12,6 +12,7 @@ explore: bing_ad_impressions {
 
 explore: bing_ad_impressions_campaign {
   extends: [bing_ad_impressions_campaign_config]
+  hidden: no
 }
 
 explore: bing_ad_impressions_ad_group {
@@ -24,6 +25,7 @@ explore: bing_ad_impressions_keyword {
 
 explore: bing_ad_impressions_ad{
   extends: [bing_ad_impressions_ad_config]
+  hidden: no
 }
 
 explore: bing_period_comparison {
