@@ -9,7 +9,7 @@ The LookML constants are used to specify the name of the schema and connection. 
 
 ### Block Info
 
-This Block is modeled on the schema from Fivetrans's [Bing Ads ETL](https://fivetran.com/directory/bing-ads).
+This Block is modeled on the schema from Fivetrans's [Bing Ads ETL](https://fivetran.com/directory/bing-ads) brought over with Looker-specific connector (https://fivetran.com/integrations/bing_ads_for_looker).
 
 The schema documentation for Bing Ads can be found in [Bing's docs](https://docs.microsoft.com/en-us/advertising/guides/reference?view=bingads-13).
 
