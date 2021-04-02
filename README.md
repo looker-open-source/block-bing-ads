@@ -1,5 +1,7 @@
 # Bing Ads Block
 
+THIS BLOCK IS DEPRECATED AS OF 4/2/2021.
+
 This repository contains views and explores used for the Bing Ads Block dashboards. There are 5 dashboards that come with this block: Bing Adwords Overview, Bing Adwords - Clicks, Bing Adwords - Conversions, Bing Adwords - Impressions and Bing Adwords - Spend. Each of the dashboards provides in-depth analysis of ad/campaign performance over a given timeframe.
 
 This project is remotely included through the Bing Ads Block Config project.
